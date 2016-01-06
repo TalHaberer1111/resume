@@ -1,0 +1,20 @@
+.post {
+  font-family: fantasy;
+  color: pink;
+}
+
+.post2 {
+  font-family: sans-serif;
+  color: purple;
+}
+
+.post3 {
+  font-family: monospace;
+  color:red;
+  font-variant: small-caps;
+}
+ .hello {
+   font-weight: bold;
+   color: green;
+   font-size: 50px;
+ }
